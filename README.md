@@ -1,9 +1,9 @@
 # Slimekeeper
 
-A rogue-like game with procedural generation built in Unity.
+A rogue-like game with procedural generation built in Unity.<br/>
 Note: This is a prototype / early build. Some features may be buggy or incomplete
 
-##Features
+## Features
 - Procedurally generated rooms ensuring a different pathway every playthrough.
 - Player combat against evil slimes
 - A health system to ensure danger
