@@ -15,4 +15,7 @@ Note: This is a prototype / early build. Some features may be buggy or incomplet
 
 <img width="412" height="240" alt="Player Death" src="https://github.com/user-attachments/assets/b70ef6f7-1920-4151-a906-a44c9f1cf452" />
 
-
+## How to run
+- Download the latest release on the repository
+- Extract the .zip file
+- Run Slimkeeper.exe
